@@ -1,0 +1,17 @@
+body{
+    font-family: 'Handlee', cursive;
+}
+h1{
+    width: 60px;
+    
+}
+.btn-color{
+    text-decoration: none;
+    color: whitesmoke;
+    background-image: linear-gradient(orange,rgb(207, 125, 24));
+    border-radius: 10px;
+    padding: 10px;
+}
+.ltl-color{
+    color: orchid;
+}
