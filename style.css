@@ -3,8 +3,8 @@ body{
     margin: auto;
 }
 h1{
-  font-size: 60px;
-  text-decoration: solid;  
+    font-size: 40px;
+    
 }
 p{
     text-align: justify;
@@ -32,7 +32,12 @@ p{
 .div-form img{
     width: 50%;
 }
-
+.header-align{
+    text-align: center;
+    }
+.header-align p{
+   text-align: center;
+}
 .flexible-container{
     display: flex;
    
