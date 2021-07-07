@@ -40,8 +40,26 @@ p{
 }
 .flexible-container{
     display: flex;
+    margin-bottom: 200px;
    
+}
+.box-drive{
+    margin-left: 10%;
+    margin-right: 5%;
+    padding: 10px 10px 20px 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px 10px rgb(79, 79, 23);
 }
 .section-image{
     background-image: url(images/section-bg.jpg);
+}
+
+.footer-style{
+    background-color: black ;
+    background-position: bottom;
+    color: white;
+    text-align: center;
+}
+.footer-style p{
+    text-align: center;
 }
